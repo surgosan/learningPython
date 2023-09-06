@@ -14,3 +14,14 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
+num = 1
+floaty = 2.12
+dec = 2.123456789
+name = 'Sergio'
+bol = True
+
+if num > 5:
+    print(bol)
+else:
+    print(-bol)
